@@ -8,12 +8,14 @@ h1 {
   padding: 15px;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 50px;
+  color: teal;
 }
 
 p {
   padding: 15px 15px 0 15px;
   font-family: 'Sarabun', sans-serif;
   font-size: 18px;
+  color: #4f4f4f;
 }
 
 .content {
